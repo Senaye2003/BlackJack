@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+  }
+  
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("BlackJackBG.png") ;
+    background-size:cover;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    color: goldenrod;
+}
+
+h1 {
+    color:goldenrod;
+}
+
+h2 {
+    color: red;
+}
+ 
+button {
+    color: burlywood;
+    width: 150px;
+    background-color: azure;
+    padding: 5px 0px;
+    font-weight: bold;
+    border:none;
+    margin: 2px 0px;
+ }
